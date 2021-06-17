@@ -5,8 +5,7 @@
   then call the imageSlider function any way in you code
   with your image src In array format as parameter
   for example check bellow
-  <script src="http://austinesamuelcodes.000webhostapp.com/codes/main.js"></script><!--
- //Put images in array
+
   const myImages=[//list of images
   {src:"https://i.imgur.com/uKlntMI.jpg"},
   {src:"https://i.imgur.com/Tjn5WCY.jpg"},
