@@ -3,7 +3,7 @@ if(imgs.length<1){
 alert("Image slider has no image to view pls add images");
 return
 }
-  //make append my code to your html file
+  // append my code to your html file
 const html=  document.createElement("div");
  html.innerHTML=`  
  <div id="imageContainer">
@@ -14,7 +14,7 @@ const html=  document.createElement("div");
    <div id="imageList">
    </div>
  </div>`
- //add my css you can edit it if you want or just copy it to your main css file
+ //add my to your code css you can edit it if you want or just copy it to your main css file
 const css=document.createElement("link")
  css.id="slideCss"
  css.href="http://austinesamuelcodes.000webhostapp.com/codes/style.css"
