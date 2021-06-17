@@ -13,5 +13,5 @@
   {src:"https://i.imgur.com/mfdDZAZ.jpg"},
   {src:"https://i.imgur.com/PiWc1hU.jpg"}//you put as many as you want
   ]
-  imageSlider(myImages);//call this anyway I you code it will work
+  imageSlider(myImages);//call this anyway In your code it will work
   
